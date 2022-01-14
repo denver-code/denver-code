@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning Rust
-- 💬 Ask me about IT
 - ✨ Write on: Python3, Java, C#, Kotlin, Go, Dart, Flutter, NodeJS, html, css, sass, js, jade, pug
 - ⚡️ <a href="https://italent.org.ua">iTalent</a> Technical moderator!
 
