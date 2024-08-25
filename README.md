@@ -28,7 +28,7 @@ Tech stack includes:
 - Linux-based VPS for hosting a backend (Includes CI/CD)
 - Umami.is for analytics
 - Vercel for Front-end, Umami Instance and PostgreSQL hosting
-- Shadcd/ui as a components library for the NextJS
+- Shadcn/ui as a components library for the NextJS
 - Cloudflare for SSL and protection
 - Docker for virtualization and rapid deployments
 
