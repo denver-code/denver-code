@@ -19,6 +19,7 @@ Also, we have the virtual city on Mars called <a href="https://www.instagram.com
 
 ## Permeso  
 Currently I'm working on the small project called ["Permeso"](https://www.youtube.com/watch?v=t2iSe9blRu8) - which is a small Full-stack application for parsing planning applications from the council websites.  
+
 Tech stack includes:
 - MongoDB as a main database, PostgreSQL for Umami analytics 
 - Stripe for payments
@@ -31,5 +32,7 @@ Tech stack includes:
 - Shadcn/ui as a components library for the NextJS
 - Cloudflare for SSL and protection
 - Docker for virtualization and rapid deployments
+
+[Read it on my blog](https://savenko.tech/projects/permeso/)
 
 More details via email by request: `ihor@savenko.tech`
