@@ -15,3 +15,21 @@ Also, we have the virtual city on Mars called <a href="https://www.instagram.com
 
 - ⚡️ <a href="https://italent.org.ua">iTalent</a> Technical moderator!
 - Check out my <a href="https://denver-code.github.io/"> website</a>
+
+
+## Permeso  
+Currently I'm working on the small project called ["Permeso"](https://www.youtube.com/watch?v=t2iSe9blRu8) - which is a small Full-stack application for parsing planning applications from the council websites.  
+Tech stack includes:
+- MongoDB as a main database, PostgreSQL for Umami analytics 
+- Stripe for payments
+- Firebase/auth for authorization
+- NextJS as frontend framework
+- FastAPI as a backend framework
+- Linux-based VPS for hosting a backend (Includes CI/CD)
+- Umami.is for analytics
+- Vercel for Front-end, Umami Instance and PostgreSQL hosting
+- Shadcd/ui as a components library for the NextJS
+- Cloudflare for SSL and protection
+- Docker for virtualization and rapid deployments
+
+More details via email by request: `csigorek@gmail.com`
