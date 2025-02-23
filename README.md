@@ -14,7 +14,7 @@ Also, we have the virtual city on Mars called <a href="https://www.instagram.com
 - Docker, Kubernetes, AWS, Lambda, Azure, VPS, S3, MongoDB, SQLite, PostgreSQL, Linux, MacOS, GIT, SSR/CSR, Restful and GraphQL, JWT, OAuth2, Redis, CI-CD, RestfulAPI, WebView, Json, Streams, Serverless, Micro-services
 
 - ⚡️ <a href="https://italent.org.ua">iTalent</a> Technical moderator!
-- Check out my <a href="https://savenko.tech/"> website</a>
+- Check out my <a href="https://ihorsavenko.com/"> website</a>
 
 
 ## Permeso  
@@ -33,6 +33,6 @@ Tech stack includes:
 - Cloudflare for SSL and protection
 - Docker for virtualization and rapid deployments
 
-[Read it on my blog](https://savenko.tech/projects/permeso/)
+[Read it on my blog](https://ihorsavenko.com/projects/permeso/)
 
-More details via email by request: `ihor@savenko.tech`
+More details via email by request: `contact@ihorsavenko.com`
