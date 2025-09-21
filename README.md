@@ -1,5 +1,5 @@
 ### Hi there!
-I am Ihor, currently studying Computer Science at Portsmouth University, UK.  
+I am Ihor, currently studying Software Engineering at Portsmouth University, UK.  
 Love to explore, learn, and build different tools by myself or integrate existing.   
 
 #### Space
